@@ -1,4 +1,4 @@
-# flutter_extensions
+# dart_type_extensions
 
 A set of useful extensions on FLutter
 
