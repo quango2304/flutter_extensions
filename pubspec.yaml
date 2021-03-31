@@ -1,8 +1,7 @@
 name: flutter_extensions
 description: A set of useful extensions on FLutter
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/quango2304
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
